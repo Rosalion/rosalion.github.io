@@ -1,4 +1,19 @@
-# Uipath开发笔记 - LINQ初学
+---
+layout:     post
+title:      "RPA开发笔记 - LINQ初学"
+subtitle:   " \"LINQ入门知识\""
+date:       2019-04-13 12:00:00
+author:     "Rosa"
+header-img: "img/post_hello world.jpg"
+catalog: true
+tags:
+    - 技术
+    - Uipath
+    - RPA
+    - LINQ
+---
+
+# RPA开发笔记 - LINQ初学
 
 ## 什么是LINQ？
 > LINQ（Language Integrated Query）即语言集成查询，可以简单理解成一种能够跨语言实现查询的语法。

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "问题研究-Uipath如何从Excel抓取格式化的日期时间"
+title:      "RPA开发笔记-Uipath如何从Excel抓取格式化的日期时间"
 subtitle:   " \"常用表达式\""
 date:       2018-12-06 12:00:00
 author:     "Rosa"

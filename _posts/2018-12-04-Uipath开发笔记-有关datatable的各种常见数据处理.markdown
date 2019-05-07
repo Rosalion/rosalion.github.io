@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "问题研究-Uipath中有关datatable的各种常见数据处理"
+title:      "RPA开发笔记-Uipath中有关datatable的各种常见数据处理"
 subtitle:   " \"常用表达式\""
 date:       2018-12-05 12:00:00
 author:     "Rosa"

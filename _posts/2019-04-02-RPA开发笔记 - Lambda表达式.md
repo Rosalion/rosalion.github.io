@@ -1,4 +1,19 @@
-# Lambda表达式
+---
+layout:     post
+title:      "RPA开发笔记 - Lambda表达式"
+subtitle:   " \"常用表达式\""
+date:       2019-04-02 12:00:00
+author:     "Rosa"
+header-img: "img/post_hello world.jpg"
+catalog: true
+tags:
+    - 技术
+    - Uipath
+    - RPA
+    - .NET
+---
+
+# RPA开发笔记 - Lambda表达式
 
 Lambda表达式是使用一些特殊语法表示匿名方法的较短方法。
 Lambad表达式在Python和.NET中均可使用。
