@@ -1,29 +1,29 @@
 # Site settings
 title: 绿螘新醅酒，红泥小火炉
 SEOTitle: Rosalion的博客 | BY Rosalion
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg.jpg
 email: kalte_eis@126.com
 description: "晚来天欲雪，能饮一杯无？."
 keyword: "Rosalion, Rosa, Rosa的博客, 罗肆"
 url: "http://rosalion.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/rosalion/rosalion.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "晚来天欲雪，能饮一杯无？"
+sidebar-avatar: /img/avatar-rosa.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# zhihu_username:     qiubaiying
+github_username:    rosalion
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
+# twitter_username:   qiubaiying
 
 
 
@@ -98,13 +98,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
+	{
         title: "Apple",
         href: "https://apple.com"
     },{
