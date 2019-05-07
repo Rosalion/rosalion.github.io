@@ -11,7 +11,7 @@ github_repo: "https://github.com/rosalion/rosalion.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "晚来天欲雪，能饮一杯无？"
+sidebar-about-description: "我是Rosa，很高兴认识你～"
 sidebar-avatar: /img/avatar-rosa.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
